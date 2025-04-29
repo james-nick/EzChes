@@ -1,2 +1,2 @@
 # EzChes made by James
-It is a chess game with a dumb enemy.
+Enemy will get harder and app will get more beautiful for each update.
